@@ -1,0 +1,1 @@
+./configure --enable-vtysh --enable-rtm --enable-ripd --enable-ripngd --enable-ospfd --enable-ospf6d --enable-bgpd --enable-isisd --enable-ipv6 --enable-ivid --enable-dslited --enable-nat64d --enable-natptd --enable-snmp=agentx --enable-user=root --enable-group=root --enable-vty-group=root --enble-ecdysisd
